@@ -111,3 +111,5 @@
 ## 6. 참고자료
 
 [HD현대 AI Challenge 사이트](https://dacon.io/competitions/official/236158/overview/description)
+
+[HD AI Challenge 본선 발표 자료](https://github.com/woov2/2023-HD-AI-Challenge-Competition/blob/main/HD%20AI%20Challenge%20%EB%B3%B8%EC%84%A0/%EA%B5%AD%EB%AF%BC%EB%8C%80_AI%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
