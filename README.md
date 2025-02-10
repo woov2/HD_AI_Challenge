@@ -1,5 +1,4 @@
 # HD 현대 AI Challenge
-2023-HD-AI-Challenge-Competition
 
 <br/>
 
